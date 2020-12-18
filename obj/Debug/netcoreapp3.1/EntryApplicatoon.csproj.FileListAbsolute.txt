@@ -1,0 +1,12 @@
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/bin/Debug/netcoreapp3.1/EntryApplicatoon.deps.json
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/bin/Debug/netcoreapp3.1/EntryApplicatoon.runtimeconfig.json
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/bin/Debug/netcoreapp3.1/EntryApplicatoon.runtimeconfig.dev.json
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/bin/Debug/netcoreapp3.1/EntryApplicatoon.dll
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/bin/Debug/netcoreapp3.1/EntryApplicatoon.pdb
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/obj/Debug/netcoreapp3.1/EntryApplicatoon.csprojAssemblyReference.cache
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/obj/Debug/netcoreapp3.1/EntryApplicatoon.AssemblyInfoInputs.cache
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/obj/Debug/netcoreapp3.1/EntryApplicatoon.AssemblyInfo.cs
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/obj/Debug/netcoreapp3.1/EntryApplicatoon.csproj.CoreCompileInputs.cache
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/obj/Debug/netcoreapp3.1/EntryApplicatoon.dll
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/obj/Debug/netcoreapp3.1/EntryApplicatoon.pdb
+/Users/abrahata/Projects/EntryApplicatoon/EntryApplicatoon/obj/Debug/netcoreapp3.1/EntryApplicatoon.genruntimeconfig.cache
